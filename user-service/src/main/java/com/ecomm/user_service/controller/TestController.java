@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String test() {
-        return "User Service is running";
+        return "User Service is running .";
     }
 }
