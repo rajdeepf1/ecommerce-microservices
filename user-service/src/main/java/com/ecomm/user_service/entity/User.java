@@ -38,3 +38,5 @@ public class User {
     private Instant updatedAt;
 
 }
+
+// Nitin
